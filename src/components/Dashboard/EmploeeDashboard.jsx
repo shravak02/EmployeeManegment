@@ -3,7 +3,7 @@ import Header from '../other/Header'
 import TaskListNumber from '../other/TaskListNumber'
 import TaskList from '../Taskllist/TaskList'
 
-const EmploeeDashboard = (props) => {
+const EmployeeDashboard = (props) => {
   
   return (
     <div>
@@ -17,4 +17,4 @@ const EmploeeDashboard = (props) => {
   )
 }
 
-export default EmploeeDashboard
+export default EmployeeDashboard
